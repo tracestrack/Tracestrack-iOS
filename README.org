@@ -1,0 +1,45 @@
+#+TITLE:     Tracestrack iOS
+#+AUTHOR:    Qing Cai
+#+STARTUP:    showall
+
+| Status:       | Under Development |
+| Version:      | 7.2               |
+| Last Release: | 2021/01/24        |
+
+** Description
+
+Tracestrack is an iOS app. It provides following features:
+
+- Maps
+ - Supports Apple Maps
+ - Supports high-resolution mobile-friendly OpenStreetMap, including some variations
+
+- Traces
+ - Recording GPS traces with types: /Walking/ /Running/ /Cycling/ /Driving/ /Waterway/ /Flight/
+ - Adding note to traces
+ - Overlays all your GPS traces in a map
+ - Time and type filters
+
+- Places
+ - Searching places
+ - Creating places with types: /Want to go/ /Have been/ /Interested/
+ - Adding notes to places
+ - Navigating to your places using external apps
+
+- CloudKit
+ - Data synced to your own iCloud
+ - Traces and Places are synced across your devices (iPad, iPhone)
+
+- OpenStreetMap
+ - Add notes to OpenStreetMaps
+ - Upload traces to OpenStreetMaps
+
+- Device support
+ - iPhone and iPad
+
+- Other
+ - Screensaver mode of map panning animation
+
+** Developer
+
+Qing Cai [[https://github.com/strongwillow/][@strongwillow]]
